@@ -135,7 +135,7 @@
     <session id="-1402634379">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.42" value="1" />
@@ -342,7 +342,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="14" />
     <option name="y" value="13" />
     <option name="width" value="1346" />
@@ -458,7 +458,7 @@
       <workItem from="1546270191466" duration="1645000" />
       <workItem from="1546273138234" duration="237000" />
       <workItem from="1546273433046" duration="36302000" />
-      <workItem from="1546452121446" duration="2660000" />
+      <workItem from="1546452121446" duration="2996000" />
     </task>
     <task id="LOCAL-00001" summary="second push">
       <created>1544786082328</created>
@@ -485,7 +485,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109190000" />
+    <option name="totallyTimeSpent" value="109526000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -497,15 +497,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14901665" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3229508" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3229508" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30983606" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
